@@ -28,6 +28,8 @@ gitee: [zclzone.gitee.io/gitee-blog](https://zclzone.gitee.io/gitee-blog)
 
 ### 2. 修改配置 src 文件夹下的配置文件 settings.js
 
+![settings.js](https://gitee.com/zclzone/res/raw/master/images/gitee-blog-settings.png)
+
 ### 3. 构建项目并发布
 
 1. 在 [gitee](https://gitee.com/) 创建一个空的仓库，仓库名为 gitee-blog（仓库名可自定义，但需跟 setting.js 中 giteeApiOptions 的配置保持一致）,如果您没有 gitee 账号,您需要先创建一个 [gitee](https://gitee.com/) 账号
